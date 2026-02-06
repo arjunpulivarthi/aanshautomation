@@ -4,12 +4,12 @@ A beautiful Flutter home automation application with Supabase backend integratio
 
 ## Features
 
-- 🏠 Multi-home management
-- 🚪 Room-based device organization
-- 💡 Control lights, thermostats, locks, cameras, and sensors
-- ⚡ Real-time device state updates
-- 🎨 Modern UI with glassmorphism effects
-- 🔐 Secure authentication
+- Multi-home management
+- Room-based device organization
+- Control lights, thermostats, locks, cameras, and sensors
+- Real-time device state updates
+- Modern UI with glassmorphism effects
+- Secure authentication
 
 ## Setup
 
